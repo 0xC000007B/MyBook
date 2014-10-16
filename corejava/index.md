@@ -8,6 +8,5 @@
 	+ 1.2 [CoreJava第一天作业](chapter1/02/1.2.md)
 	+ 1.3 [CoreJava练习:java03](chapter1/03/1.3.md)
 2. 第二章 数组
-	+ 1.1 [Java开发环境配置](04/2.1.md)
-	+ 1.2 [CoreJava第一天作业](02/1.2.md)
-	+ 1.3 [CoreJava练习:java03](03/1.3.md)
+	+ 2.1 [创建数组](chapter2/1/2.1.md)
+	+ 2.2 [创建数组](chapter2/2/2.2.md)
