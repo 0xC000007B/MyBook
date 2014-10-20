@@ -9,4 +9,4 @@
 	+ 1.3 [CoreJava练习:java03](chapter1/03/1.3.md)
 2. 第二章 数组
 	+ 2.1 [创建数组](chapter2/1/2.1.md)
-	+ 2.2 [创建数组](chapter2/2/2.2.md)
+	+ 2.2 [数组实现](chapter2/2/2.2.md)
