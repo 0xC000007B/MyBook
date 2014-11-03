@@ -4,3 +4,4 @@
 
 1. [CoreJava笔记](corejava/index.md)
 2. [MySql笔记](mysql/index.md)
+3. [Scala笔记](scala/index.md)
